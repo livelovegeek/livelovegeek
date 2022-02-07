@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, fellow geeks 🖖🏼
 
-<!--
-**livelovegeek/livelovegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Morgan Bell and I’m currently working on empowering student developers around the world @ Microsoft
 
-Here are some ideas to get you started:
+I'm a 🐶 mom x3, fantasy 🏈 champ, 🚀 geek, INFJ-A, and proud Gryffindor!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Join me on the interwebs - I'm **livelovegeek on all the things!**
+
+- 💬 [Twitter](https://www.twitter.com/livelovegeek) 
+- 📷 [Instagram](https://www.instagram.com/livelovegeek) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/livelovegeek)
+
+My Website ➡️ [Hello, Morgan](www.hellomorgan.dev)
+
+My Pronouns == she/her/hers
+
+💡 *"Be the person that you needed when you were younger"* 💡
