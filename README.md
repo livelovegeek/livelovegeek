@@ -1,6 +1,8 @@
 ### Hello, fellow geeks 🖖🏼
 
-My name is Morgan Bell and I’m currently working on empowering student developers around the world @ Microsoft
+My name is Morgan Bell and I'm focused on improving developer's experiences building Twitter's core platform.
+
+My preffered title is *professional geek*, but just saying I'm a product manager will suffice as well.
 
 I'm a 🐶 mom x3, fantasy 🏈 champ, 🚀 geek, INFJ-A, and proud Gryffindor!
 
