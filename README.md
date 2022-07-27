@@ -2,7 +2,7 @@
 
 My name is Morgan Bell and I'm focused on improving developer's experiences building Twitter's core platform.
 
-My preffered title is *professional geek*, but just saying I'm a product manager will suffice as well.
+My preferred title is *Professional Geek*, but just saying I'm a product manager will suffice as well.
 
 I'm a 🐶 mom x3, fantasy 🏈 champ, 🚀 geek, INFJ-A, and proud Gryffindor!
 
