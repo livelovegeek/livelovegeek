@@ -1,6 +1,6 @@
 ### Hello, fellow geeks 🖖🏼
 
-My name is Morgan Bell and I'm focused on improving developer's experiences building Twitter's core platform.
+My name is Morgan Mitchell and I'm focused on improving developer's experiences at Google.
 
 My preferred title is *Professional Geek*, but just saying I'm a product manager will suffice as well.
 
